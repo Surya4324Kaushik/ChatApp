@@ -1,0 +1,4 @@
+body { background:#f9fafb; }
+#sidebar { height:100vh; overflow-y:auto; }
+.message.me   { text-align:right; color:#0d6efd; }
+.message.them { text-align:left;  color:#212529; }
